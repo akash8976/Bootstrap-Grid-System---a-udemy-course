@@ -1,0 +1,10 @@
+/* .container
+{
+  background-color: lightblue;
+  margin-bottom: 1%;
+} */
+
+.container-fluid
+{
+  background-color: lightgreen;
+}
